@@ -1,6 +1,6 @@
 # USB Buzzer Configurator
 
-![USB Buzzer Configurator](screenshot.png)
+![USB Buzzer Configurator](Screenshot.png)
 
 A simple, standalone application to configure the Buzzer. This tool allows you to customize the key that your buzzer sends when pressed.
 
